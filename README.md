@@ -2,16 +2,34 @@
 A highly modern, responsive FinTech & Retail Brokerage Platform.
 
 ### User Interface Showcase
-![Stock Matters Home](./demo_home.png)
-![Stock Matters Pricing](./demo_pricing.png)
-![Stock Matters Products](./demo_products.png)
-![Stock Matters User Signup](./demo_signup.png)
-![Stock Matters Dashboard (Authenticated)](./demo_dashboard.png)
+<p align="center">
+  <img src="demo_home.png" alt="Stock Matters Home" width="100%">
+  <br><br>
+  <img src="demo_pricing.png" alt="Stock Matters Pricing" width="100%">
+  <br><br>
+  <img src="demo_products.png" alt="Stock Matters Products" width="100%">
+  <br><br>
+  <img src="demo_signup.png" alt="Stock Matters User Signup" width="100%">
+  <br><br>
+  <img src="demo_dashboard.png" alt="Stock Matters Dashboard (Authenticated)" width="100%">
+  <br><br>
+  <img src="demo_holdings.png" alt="Stock Matters Holdings Dashboard" width="100%">
+  <br><br>
+  <img src="demo_positions.png" alt="Stock Matters Positions Dashboard" width="100%">
+  <br><br>
+  <img src="demo_orders.png" alt="Stock Matters Orders Dashboard" width="100%">
+  <br><br>
+  <img src="demo_funds.png" alt="Stock Matters Funds Dashboard" width="100%">
+</p>
 
 ## Overview
 **Stock Matters** is a full-stack web application meticulously crafted with the **MERN Stack**. Modeled closely off of robust, institutional-grade Indian brokerage ecosystem platforms like Zerodha, this project aims to provide users with an incredible and sleek first impression, from creating their account to managing their portfolio on the Dashboard.
 
-*(A full video of the platform's UI flow is provided in the repository: `demo_video.webp`)*
+*(A full video of the platform's UI flow is provided below:)*
+
+<p align="center">
+  <img src="demo_video.webp" alt="Stock Matters Demo Video" width="100%">
+</p>
 
 ## Features Architecture
 The platform features a highly modular, decoupled ecosystem consisting of three primary servers:
