@@ -26,11 +26,6 @@ A highly modern, responsive FinTech & Retail Brokerage Platform.
 **Stock Matters** is a full-stack web application meticulously crafted with the **MERN Stack**. Modeled closely off of robust, institutional-grade Indian brokerage ecosystem platforms like Zerodha, this project aims to provide users with an incredible and sleek first impression, from creating their account to managing their portfolio on the Dashboard.
 
 *(A full video of the platform's UI flow is provided below:)*
-
-<p align="center">
-  <img src="demo_video.webp" alt="Stock Matters Demo Video" width="100%">
-</p>
-
 ## Features Architecture
 The platform features a highly modular, decoupled ecosystem consisting of three primary servers:
 
